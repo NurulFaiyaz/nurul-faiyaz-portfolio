@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 
 const Introduction = () => {
     return (
-        <div className="flex justify-between flex-col md:flex-row-reverse my-5 md:my-10 gap-5 md:gap-0">
+        <div className="flex justify-between flex-col md:flex-row-reverse my-8 md:my-12 gap-5 md:gap-0">
             <div className="md:w-1/2">
                 <img className="rounded-[20px] object-fill border w-44 mx-auto md:w-60" src="https://i.ibb.co.com/HCZXRBM/nurul-faiyazjpg-Copy.jpg" alt="Nurul Faiyaz" />
             </div>
